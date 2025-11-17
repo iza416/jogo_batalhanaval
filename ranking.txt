@@ -1,0 +1,6 @@
+Izadora;0;264
+Joana;0;274
+Maria;30;170
+Joao;10;82
+moana;0;167
+Mariana;0;97
